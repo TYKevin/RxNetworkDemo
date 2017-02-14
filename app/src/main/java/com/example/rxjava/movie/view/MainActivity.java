@@ -17,6 +17,9 @@ import butterknife.Bind;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
 
+/**
+ * 测试页面
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Bind(R.id.click_me_BN)
